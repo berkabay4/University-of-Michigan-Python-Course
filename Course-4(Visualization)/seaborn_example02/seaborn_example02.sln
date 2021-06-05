@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "seaborn_example02", "seaborn_example02\seaborn_example02.pyproj", "{DD81F203-50EB-4A61-861B-8E3BB7491851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD81F203-50EB-4A61-861B-8E3BB7491851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD81F203-50EB-4A61-861B-8E3BB7491851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77E6973C-BB35-4F28-9324-3A82C53C9A8D}
+	EndGlobalSection
+EndGlobal
